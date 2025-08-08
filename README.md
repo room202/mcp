@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
 ## MCPサーバーの登録
 
-ファイル：C:\Users\%USERPROFILE%\AppData\Roaming\Code\User\settings.json
+ファイル：`C:\Users\%USERPROFILE%\AppData\Roaming\Code\User\settings.json`
 
 ```json
 ～省略～
